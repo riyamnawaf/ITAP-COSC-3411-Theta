@@ -20,7 +20,7 @@ A Bash script that creates scheduled netcat listeners with three operational mod
 
 ## Project Overview
 
-This project implements a scheduled netcat listener tool for the COSC/ITAP 3411 Bash Shell Scripting course. The script provides three scheduling options:
+This project implements a scheduled netcat listener tool for the COSC/ITAP 3411 course. The script provides three scheduling options:
 
 1. Immediate Mode - Start listening instantly
 2. Delayed Mode - Start after a countdown timer
