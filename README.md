@@ -68,7 +68,7 @@ sudo apt-get install netcat-traditional
 **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/riyamnawaf/ITAP-COSC-3411-Theta.git
+git clone https://github.com/riyamnawaf/ITAP-COSC-3411-Theta.git && cd ITAP-COSC-3411-Theta/
 ```
 
 **Step 2: Make Script Executable**
