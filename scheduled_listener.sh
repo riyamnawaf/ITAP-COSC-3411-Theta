@@ -144,7 +144,7 @@ case $choice in
     3)
         # Option 3: Continuous Mode
         # Loop until we get valid interval 
-        for i in {1..100}
+        for i in {1..1000000}
         do
             read -p "Enter restart interval in seconds: " interval
             
