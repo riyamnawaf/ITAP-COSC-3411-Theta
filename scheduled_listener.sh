@@ -50,7 +50,7 @@ echo ""
 # ============================================================
 
 # Loop until we get a valid choice (using for loop with break)
-for i in {1..100}
+for i in {1..1000}
 do
     echo "Select Scheduling Option:"
     echo "1) Start listener immediately"
@@ -97,7 +97,7 @@ case $choice in
         # Option 2: Delayed Start
         
         # Loop until we get valid delay time 
-        for i in {1..100}
+        for i in {1..100000}
         do
             read -p "Enter delay in seconds: " delay
             
